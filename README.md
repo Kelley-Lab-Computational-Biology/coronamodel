@@ -1,5 +1,5 @@
 # coronamodel
-Kelley lab stochastic Coronavirus model
+Kelley lab Stochastic Coronavirus model
 
 This GitHub folder is for the article Temporal Dynamics of Viral Load and False Negative Rate Influence the Levels of Testing Necessary to Combat COVID19 Spread. 
 There are two folders and I will describe what is in and how to run each.
